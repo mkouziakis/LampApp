@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Device Remote Control</string>
+    <string name="title_activity_device_control">Device Remote Control</string>
+</resources>
